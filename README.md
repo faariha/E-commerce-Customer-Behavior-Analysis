@@ -6,10 +6,3 @@ Python 3.8+
 Jupyter Notebook
 libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 
-git clone https://github.com/faariha/E-commerce-Customer-Behavior-Analysis.git
-
-
-Install dependencies:
-
-pip install -r requirements.txt
-
